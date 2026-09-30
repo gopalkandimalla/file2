@@ -4,3 +4,5 @@ for i in range(0,n):
     values=input("enter strings")
     arr.append(values)
 print(arr)
+print(arr)
+print(len(arr))
